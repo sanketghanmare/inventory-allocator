@@ -1,0 +1,11 @@
+# I used JavaScript to finish this challenge.
+
+# For test cases I used 'jest'.
+
+# Simply download the code or Clone the repository on your local system.
+
+# Use webstrom or IDE of your choice and install dependencies by running  npm i.
+
+# run InventoryAllocator.test.js which has all my test cases.
+
+# InventoryAllocator.js has function InventoryAllocator().
